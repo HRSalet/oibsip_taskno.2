@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskBuddy</string>
+    <string name="todo_task">To Do Tasks</string>
+    <string name="hint">Enter new task</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login"><u>Do you already have account?</u></string>
+    <string name="click_to_register"><u>Click here to register</u></string>
+</resources>

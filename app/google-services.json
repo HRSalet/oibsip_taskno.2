@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858392858843",
+    "project_id": "task-buddy-login",
+    "storage_bucket": "task-buddy-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858392858843:android:8e2a62ff168cf12b467cfe",
+        "android_client_info": {
+          "package_name": "com.example.taskbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwZNWdY5aw9cje8-ldcklvqWVK51sGTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
